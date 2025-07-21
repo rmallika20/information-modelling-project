@@ -1,17 +1,25 @@
-# Information Modelling Project
+# 📊 Information Modelling Project
 
-This is an individual assignment completed as part of the **BIA 650: Information Modelling** course at Stevens Institute of Technology.
+This project was completed as part of the **BIA 650 – Information Modelling** course at Stevens Institute of Technology.
 
-## Project Overview
+## 🧠 Objective
 
-The project explores:
-- Supertype/Subtype modeling strategies
-- ER relationship semantics (Reference, Dependency, Composition)
-- Recursive entity modeling (Parts Explosion)
-- Contract-based specifications for major processes (e.g., home buying)
+To design and implement advanced information models using:
+- Entity-Relationship (ER) modeling
+- Recursive and hierarchical structures
+- Supertype/subtype relationships
+- Relationship semantics: Reference, Dependency, Composition
+- Contract-based process modeling (e.g., Home Buying Process)
 
-## Author
-**Rohini Mallikarjunaiah**
+## 📂 Contents
 
-# information-modelling-project
-ER modeling, relationship semantics, and contract design in enterprise systems
+- `Information_Modeling_Presentation.pptx`: Slide deck summarizing all models and analysis.
+
+## 👩‍💻 Author
+
+**Rohini Mallikarjunaiah**  
+Graduate Student, Business Intelligence & Analytics  
+Stevens Institute of Technology
+
+
+
